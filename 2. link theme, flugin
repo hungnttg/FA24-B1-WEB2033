@@ -1,1 +1,6 @@
 https://drive.google.com/drive/folders/1_jA88xtgMLKlPC6moG2lFLHP3sRBz6cI?usp=drive_link
+
+
+Code Active: chú ý: cần đổi tên bảng cho giống với tên bảng trên máy tính của mình:
+insert into `wp_options` (`option_id`,`option_name`,`option_value`,`autoload`)
+values (null,'flatsome_wup_purchase_code','8f93cd51-5246-4505-9228-9a4137e6ec00','yes')
